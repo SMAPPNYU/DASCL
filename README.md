@@ -1,6 +1,6 @@
 # DASCL: Dictionary-Assisted Supervised Contrastive Learning
 
-Last Updated: October 20, 2022
+Last Updated: October 26, 2022
 
 Authors: Patrick Y. Wu, Richard Bonneau, Joshua A. Tucker, and Jonathan Nagler 
 
