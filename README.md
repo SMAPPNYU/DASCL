@@ -16,3 +16,5 @@ cd DASCL
 pip install -r requirements.txt
 python setup.py develop
 ```
+
+We have implemented DASCL for BERT and RoBERTa. The functions are used in a very similar manner to `BertForSequenceClassification` and `RobertaForSequenceClassification`. 
