@@ -1,12 +1,6 @@
-# Script: DASCL_BERT.py
 # Date Last Updated: 06/07/2022
 # Last Editor: PYW
-# Purpose of Script: this script contains the main class for sequence classification that combines 
-#                    the cross-entropy loss function and the dictionary-assisted supervised contrastive
-#                    learning function but with BERT as the base language model. 
-#                    It is a modification of the BertForSequenceClassification
-#                    class from HuggingFace: 
-#                    https://github.com/huggingface/transformers/blob/v4.19.2/src/transformers/models/roberta/modeling_roberta.py#L1161
+# docstrings are a mix of descriptions from HuggingFace and our own descriptions 
 
 import pandas as pd
 import numpy as np
